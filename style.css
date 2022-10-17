@@ -183,25 +183,6 @@ footer {
       "c d d e";
   }
 
-  .purple-con {
-    grid-area: a;
-  }
-
-  .grey-con {
-    grid-area: b;
-  }
-
-  .white-small-con {
-    grid-area: c;
-  }
-
-  .blue-con {
-    grid-area: d;
-  }
-
-  .white-big-con {
-    grid-area: e;
-  }
 
   .bold-par {
     font-size: 1.2rem;
